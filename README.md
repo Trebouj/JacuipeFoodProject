@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Jacuipe is a small city located in the state of Bahia, Brazil. Jacuipe is a beautiful coastal city with great restaurants and bars. 
+The idea of the project is simple: Get some restaurants and food places around my neighborhood and simplify.
+Just a simple clone of iFood using RoR and React (Next.Js)
 
 Things you may want to cover:
 
-* Ruby version
+Here's what I'm using for now:
+- Ruby 3.0.1
+- Ruby on Rails 6.0
+- Sqlite
 
-* System dependencies
+Gemfile:
+- 'ransack'
+- 'cors'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+New features to be added soon
